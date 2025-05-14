@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TRPO_PR2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TRPO_PR4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84045e59a54ee1f694bf8aef9be003b6b7d01da8")]
-[assembly: System.Reflection.AssemblyProductAttribute("TRPO_PR2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TRPO_PR2")]
+[assembly: System.Reflection.AssemblyProductAttribute("TRPO_PR4")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TRPO_PR4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

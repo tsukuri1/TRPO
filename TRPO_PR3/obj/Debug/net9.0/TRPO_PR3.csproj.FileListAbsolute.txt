@@ -1,0 +1,15 @@
+D:\дз\TRPO\TRPO_PR3\obj\Debug\net9.0\TRPO_PR3.GeneratedMSBuildEditorConfig.editorconfig
+D:\дз\TRPO\TRPO_PR3\obj\Debug\net9.0\TRPO_PR3.AssemblyInfoInputs.cache
+D:\дз\TRPO\TRPO_PR3\obj\Debug\net9.0\TRPO_PR3.AssemblyInfo.cs
+D:\дз\TRPO\TRPO_PR3\obj\Debug\net9.0\TRPO_PR3.csproj.CoreCompileInputs.cache
+D:\дз\TRPO\TRPO_PR3\obj\Debug\net9.0\TRPO_PR3.sourcelink.json
+D:\дз\TRPO\TRPO_PR3\bin\Debug\net9.0\TRPO_PR3.exe
+D:\дз\TRPO\TRPO_PR3\bin\Debug\net9.0\TRPO_PR3.deps.json
+D:\дз\TRPO\TRPO_PR3\bin\Debug\net9.0\TRPO_PR3.runtimeconfig.json
+D:\дз\TRPO\TRPO_PR3\bin\Debug\net9.0\TRPO_PR3.dll
+D:\дз\TRPO\TRPO_PR3\bin\Debug\net9.0\TRPO_PR3.pdb
+D:\дз\TRPO\TRPO_PR3\obj\Debug\net9.0\TRPO_PR3.dll
+D:\дз\TRPO\TRPO_PR3\obj\Debug\net9.0\refint\TRPO_PR3.dll
+D:\дз\TRPO\TRPO_PR3\obj\Debug\net9.0\TRPO_PR3.pdb
+D:\дз\TRPO\TRPO_PR3\obj\Debug\net9.0\TRPO_PR3.genruntimeconfig.cache
+D:\дз\TRPO\TRPO_PR3\obj\Debug\net9.0\ref\TRPO_PR3.dll
